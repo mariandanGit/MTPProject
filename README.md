@@ -1,6 +1,8 @@
 # MTPProject
+
  A C# application that helps manage a car rental business.
  
+ It was made with C# in Windows Forms and with SQLServer as database management system.
  
 ![log-in](https://user-images.githubusercontent.com/64864410/151233529-22530220-0612-44f5-b6ec-556e9df75881.png)
 
